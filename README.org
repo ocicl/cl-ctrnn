@@ -7,4 +7,4 @@ A Common Lisp library for the simulation of Continuous-Time Recurrent Neural Net
 | commit  | c1832db                                     |
 | systems | cl-ctrnn                                    |
 |---------+---------------------------------------------|
- 
+  
